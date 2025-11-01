@@ -194,4 +194,4 @@ Light Mode | Dark Mode
 ## 👩‍💻 Author
 **Rehab Hamdy Selim**  
 Flutter Developer | Passionate about Clean Architecture & UI Design  
-📧 Email: rehab@example.com
+📧 Email: rehab.hamdy.selim@gmail.com
